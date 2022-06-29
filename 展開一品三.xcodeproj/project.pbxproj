@@ -21,6 +21,7 @@
 		4B2ACC552834C5F4009BDC50 /* tarukimaru.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B2ACC4F2834C5F4009BDC50 /* tarukimaru.png */; };
 		4B2ACC562834C5F4009BDC50 /* siro.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4B2ACC502834C5F4009BDC50 /* siro.jpeg */; };
 		4B2ACC572834C5F4009BDC50 /* tarukilast.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B2ACC512834C5F4009BDC50 /* tarukilast.png */; };
+		4B67976A286AC5CF00635F53 /* threesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B679769286AC5CF00635F53 /* threesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		4B2ACC4F2834C5F4009BDC50 /* tarukimaru.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tarukimaru.png; sourceTree = "<group>"; };
 		4B2ACC502834C5F4009BDC50 /* siro.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = siro.jpeg; sourceTree = "<group>"; };
 		4B2ACC512834C5F4009BDC50 /* tarukilast.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tarukilast.png; sourceTree = "<group>"; };
+		4B679769286AC5CF00635F53 /* threesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = threesViewController.swift; path = ../threesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				4B2ACC382834C52A009BDC50 /* ViewController.swift */,
 				4B2ACC482834C579009BDC50 /* twoViewController.swift */,
 				4B2ACC4A2834C5C3009BDC50 /* threeViewController.swift */,
+				4B679769286AC5CF00635F53 /* threesViewController.swift */,
 				4B2ACC342834C52A009BDC50 /* AppDelegate.swift */,
 				4B2ACC362834C52A009BDC50 /* SceneDelegate.swift */,
 				4B2ACC3D2834C52B009BDC50 /* Assets.xcassets */,
@@ -171,6 +174,7 @@
 				4B2ACC4B2834C5C3009BDC50 /* threeViewController.swift in Sources */,
 				4B2ACC392834C52A009BDC50 /* ViewController.swift in Sources */,
 				4B2ACC352834C52A009BDC50 /* AppDelegate.swift in Sources */,
+				4B67976A286AC5CF00635F53 /* threesViewController.swift in Sources */,
 				4B2ACC372834C52A009BDC50 /* SceneDelegate.swift in Sources */,
 				4B2ACC492834C579009BDC50 /* twoViewController.swift in Sources */,
 			);
